@@ -1,5 +1,7 @@
 # Delhivery Case Study
 
+Medium link - https://medium.com/@jaspreet.s/eda-importance-to-find-recommendations-based-on-dataset-d58731694e1c
+
 ## Understandings:
 1. start_scan_to_end_scan is in minutes -> od_end_time - od_start_time
 2. Same values after grouping - 'data','trip_creation_time' 'route_schedule_uuid', 'route_type',
